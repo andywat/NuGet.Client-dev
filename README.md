@@ -1,0 +1,2 @@
+# NuGet.Client-dev
+nuGet
